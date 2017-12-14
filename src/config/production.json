@@ -1,0 +1,6 @@
+{
+  "app_client_id": "9633dd82104fcf373986318472d8ccd4",
+  "app_url": "https://livechat-billing-demo.netlify.com",
+  "billing_api_url": "https://billing.livechatinc.com",
+  "direct_charge_test": true
+}

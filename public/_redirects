@@ -1,0 +1,3 @@
+# Redirect rules for Netlify:
+# https://www.netlify.com/docs/redirects/
+http://livechat-billing-demo.netlify.com/*  https://livechat-billing-demo.netlify.com/:splat 301!

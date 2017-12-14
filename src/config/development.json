@@ -1,0 +1,6 @@
+{
+  "app_client_id": "9633dd82104fcf373986318472d8ccd4",
+  "app_url": "https://localhost:3000",
+  "billing_api_url": "https://billing.livechatinc.com",
+  "direct_charge_test": true
+}
